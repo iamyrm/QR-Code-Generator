@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qrcode",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yagyaraj Majhi",
+  "license": "ISC",
+  "description": "This is a QR Code generator where the user is allowed to enter the URL and the app will provide the QR image for that particular URL."
+}
